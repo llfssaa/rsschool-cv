@@ -1,1 +1,1 @@
-https://github.com/llfssaa/rsschool-cv.git 
+https://llfssaa.github.io/rsschool-cv/
