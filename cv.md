@@ -54,6 +54,7 @@ function cakes(recipe, available) {
 Bogdan Stashchuk
     + React JS - Путь самурая
     + Stepik
+
 ***
 ### English
 ***
