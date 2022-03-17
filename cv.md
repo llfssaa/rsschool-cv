@@ -1,4 +1,4 @@
-## [rsschool-cv](https://github.com/llfssaa/rsschool-cv.git)
+## [rsschool-cv](https://llfssaa.github.io/rsschool-cv/cv)
 ***
 # Liubovi Topolcean
 ***
