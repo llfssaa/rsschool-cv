@@ -14,6 +14,8 @@
 ***
 ### About me
 ***
+I love learning new things and improving myself. That is why I decided to develop in the field of information technology.
+***
 ### Skills
 ***
 * HTML
