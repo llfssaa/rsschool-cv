@@ -43,3 +43,15 @@ function cakes(recipe, available) {
 ***
 ### Experience
 ***
+### Education
+***
+* #### Shevchenko Transnistria State University
+* #### Courses:
+    + JavaScript - Полный Курс JavaScript Для Начинающих  by 
+Bogdan Stashchuk
+    + React JS - Путь самурая
+    + Stepik
+***
+### English
+***
+### A2/B1
