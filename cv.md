@@ -10,6 +10,7 @@
 * Discord: llfssaa
 * Github: [llfssaa](https://github.com/llfssaa)
 * Linkedin: [Liubovi Topolcean](https://www.linkedin.com/in/liubovi-topolcean/)
+
 ***
 ### About me
 ***
