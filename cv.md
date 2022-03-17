@@ -13,3 +13,33 @@
 ***
 ### About me
 ***
+### Skills
+***
+* HTML
+* CSS/SASS
+* JavaScript 
+* React JS / Redux
+* GIT
+ ***
+### Code Example
+***
+```
+function cakes(recipe, available) {
+    let A = Object.keys(available);
+    for (let prop in recipe){
+        if (A.indexOf(prop) === -1) {
+            return 0;
+        }
+    }
+    let arr = [];
+    for (let prop in available){
+        if (prop in recipe){
+            arr.push(available[prop] / recipe[prop]);
+        }
+    }
+    return Math.floor(arr.sort((a,b) => a - b)[0]);
+}
+```
+***
+### Experience
+***
